@@ -1,0 +1,4 @@
+[submodule "http-api"]
+	path = http-api
+	url = https://github.com/blabno/bisq-api.git
+	branch = feature/core-integration
